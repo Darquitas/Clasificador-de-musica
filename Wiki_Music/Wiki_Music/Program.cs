@@ -33,8 +33,22 @@ namespace Wiki_Music
                 Console.WriteLine("\n");
                 Console.WriteLine("Dime una Opción");
 
+                do
+                {
+                    Indice = Console.ReadKey(true).KeyChar;
+                }
+                while ( Indice < '0' || Indice > '2' );
+                
+                switch( Indice)
+                {
+                    case '0':
+                        {
+                            Environment.Exit(0);
+                        }
+                        break;
+                   
 
-
+                }
                 Console.WriteLine("------------------------");
                 Console.Write("¿Desea  Seguir buscando? y/n");
                 Continuar = Console.ReadLine();
