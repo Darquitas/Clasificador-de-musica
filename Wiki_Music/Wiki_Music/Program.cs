@@ -6,10 +6,24 @@ using System.Threading.Tasks;
 
 namespace Wiki_Music
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            string Continuar;
+
+
+
+            do
+            {
+                Console.WriteLine("------------------------");
+                Console.Write("¿Desea  Seguir buscando? y/n");
+                Continuar = Console.ReadLine();
+                Console.WriteLine();
+                Console.Clear();
+
+            }
+            while (Continuar != "n");
         }
     }
 }

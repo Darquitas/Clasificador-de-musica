@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\bin\Debug\Wiki_Music.exe.config
+C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\bin\Debug\Wiki_Music.exe
+C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\bin\Debug\Wiki_Music.pdb
+C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.exe
+C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.pdb
