@@ -6,3 +6,11 @@ C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wi
 C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.exe
 C:\Users\USUARIO\Documents\Proyecto de Aula\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.pdb
+D:\DATOS\Documents\Proyectos de Visual studio\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\bin\Debug\Wiki_Music.exe.config
+D:\DATOS\Documents\Proyectos de Visual studio\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\bin\Debug\Wiki_Music.exe
+D:\DATOS\Documents\Proyectos de Visual studio\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\bin\Debug\Wiki_Music.pdb
+D:\DATOS\Documents\Proyectos de Visual studio\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.csproj.AssemblyReference.cache
+D:\DATOS\Documents\Proyectos de Visual studio\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.csproj.SuggestedBindingRedirects.cache
+D:\DATOS\Documents\Proyectos de Visual studio\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.csproj.CoreCompileInputs.cache
+D:\DATOS\Documents\Proyectos de Visual studio\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.exe
+D:\DATOS\Documents\Proyectos de Visual studio\WikiMusicaCodigoLimpio\Wiki_Music\Wiki_Music\obj\Debug\Wiki_Music.pdb

@@ -11,11 +11,30 @@ namespace Wiki_Music
         static void Main(string[] args)
         {
             string Continuar;
-
+            char Indice;
 
 
             do
             {
+
+                Console.WriteLine("|******************************************** Wiki Music ♫ *********|");
+                Console.WriteLine("|*                                                                 *|");
+                Console.WriteLine("|*                        ♫♫♫♫♫__♥♥♥__♫♫♫♫♫                        *|");
+                Console.WriteLine("|*        Biemvenido a Wiki Music,¿En que te podemos ayudar?       *|");
+                Console.WriteLine("|*                       ______ ♫ ♥ ♫ ______                       *|");
+                Console.WriteLine("|*                                                                 *|");
+                Console.WriteLine("|*               1.Buscar Genero de Musica                         *|");
+                Console.WriteLine("|*               2.Buscar Artista                                  *|");
+                Console.WriteLine("|*                                                                 *|");
+                Console.WriteLine("|*               0.Salir                                           *|");
+                Console.WriteLine("|*                                                                 *|");
+                Console.WriteLine("|*                                                                 *|");
+                Console.WriteLine("|******** Wiki Music ♫ *********************************************|");
+                Console.WriteLine("\n");
+                Console.WriteLine("Dime una Opción");
+
+
+
                 Console.WriteLine("------------------------");
                 Console.Write("¿Desea  Seguir buscando? y/n");
                 Continuar = Console.ReadLine();
