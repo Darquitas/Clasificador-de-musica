@@ -46,7 +46,31 @@ namespace Wiki_Music
                             Environment.Exit(0);
                         }
                         break;
-                   
+                    case '1':
+                        {
+                            Console.WriteLine("|******************************************** Wiki Music ♫ *********|");
+                            Console.WriteLine("|*                                                                 *|");
+                            Console.WriteLine("|*                 1.Mostrar Genero                                *|");
+                            Console.WriteLine("|*                 2.Añadir Genero                                 *|");
+                            Console.WriteLine("|*                 3.Modidicar Genero                              *|");
+                            Console.WriteLine("|*                 4.Eliminar Genero                               *|");
+                            Console.WriteLine("|******** Wiki Music ♫ *********************************************|");
+
+                            Indice = Console.ReadLine();
+                            Console.Clear();
+
+                            switch( Indice)
+                            {
+                                case '4':
+                                    Console.WriteLine("Selecione genero a eliminar:");
+                                    break;
+                                default:
+                                    break;
+                            }
+
+
+                            break;
+                        }
 
                 }
                 Console.WriteLine("------------------------");
